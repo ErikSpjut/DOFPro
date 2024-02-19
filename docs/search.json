@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DOFPro",
+    "section": "",
+    "text": "The Degrees of Freedom Project is dedicated to making previously developed proprietary instructional information available under an open source license. The two areas we are currently working to make available are in the areas of Chemical and Thermal Processes, and High-Power Rocketry. Let’s see if we fixed things."
+  },
+  {
+    "objectID": "Rocketry.html",
+    "href": "Rocketry.html",
+    "title": "Rocketry.qmd",
+    "section": "",
+    "text": "Introduction\nThese pages outline the basics of High Power Rocketry as defined in NFPA 1127 and by [TRA](https://www.tripoli.org/) and [NAR](https://www.nar.org/).\nMore needs to be written",
+    "crumbs": [
+      "Home",
+      "Rocketry.qmd"
+    ]
+  },
+  {
+    "objectID": "ChemE/ChEIntro.html",
+    "href": "ChemE/ChEIntro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Engineering Basics\n\nStatistics, Measurements, and Calculations\nProcess Data and Variables, such as Pressure, Temperature, Mass, Moles, etc.\nConverting among systems of units\nDimensionless numbers\n\nSystem Definition\n\nOpen or Closed\nTransient or Steady State\n\nMaterial Balances\n\nMass Balances\nMole Balances\nEquations of State and Phase Equilibria\n\nEnergy Balances or the 1st Law of Thermodynamics\nEntropy Balances or the 2nd Law of Thermodynamics\nThermodynamic Efficiency and the Combined 1st and 2nd Laws\n\n\n\n\nThe principles in Chemical and Thermal Processes are applicable in\n\nChemical Engineering\nPetroleum Engineering\nMechanical Engineering\nMaterials Engineering\nBioengineering\nEnvironmental Engineering\nEnergy Engineering\nSustainability\nManufacturing Engineering\nIndustrial Engineering\nMarine and Aerospace Engineering",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "ChemE/ChEIntro.html#engineering-principles-discussed",
+    "href": "ChemE/ChEIntro.html#engineering-principles-discussed",
+    "title": "Introduction",
+    "section": "",
+    "text": "Engineering Basics\n\nStatistics, Measurements, and Calculations\nProcess Data and Variables, such as Pressure, Temperature, Mass, Moles, etc.\nConverting among systems of units\nDimensionless numbers\n\nSystem Definition\n\nOpen or Closed\nTransient or Steady State\n\nMaterial Balances\n\nMass Balances\nMole Balances\nEquations of State and Phase Equilibria\n\nEnergy Balances or the 1st Law of Thermodynamics\nEntropy Balances or the 2nd Law of Thermodynamics\nThermodynamic Efficiency and the Combined 1st and 2nd Laws",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "ChemE/ChEIntro.html#why-chemical-and-thermal-processes",
+    "href": "ChemE/ChEIntro.html#why-chemical-and-thermal-processes",
+    "title": "Introduction",
+    "section": "",
+    "text": "The principles in Chemical and Thermal Processes are applicable in\n\nChemical Engineering\nPetroleum Engineering\nMechanical Engineering\nMaterials Engineering\nBioengineering\nEnvironmental Engineering\nEnergy Engineering\nSustainability\nManufacturing Engineering\nIndustrial Engineering\nMarine and Aerospace Engineering",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "ChemE.html",
+    "href": "ChemE.html",
+    "title": "ChemE",
+    "section": "",
+    "text": "Introduction\nChemical and Thermal Processes starts with the basics of stoichiometry and thermodynamics as covered in many Introduction to Chemical Engineering courses. It continues with topics typically covered in an advanced Engineering Thermodynamics course and in a Chemical Reactor Engineering course. The material is labeled as to whether it is introductory (Sophomore level), intermediate (Junior level) or advanced (Senior level).\nMore needs to be written",
+    "crumbs": [
+      "Home",
+      "ChemE"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#first-define-your-system",
+    "href": "ChemE/Balances.html#first-define-your-system",
+    "title": "Balances and Systems",
+    "section": "First – Define Your System",
+    "text": "First – Define Your System\n\nTransient — The values of process variables are changing with time.\nSteadyState —The values of process variables do not change with time but may change with position. (What EE’s call a DC steady state)\nBatch (closed) — Throw stuff in. Wait. Pull products out.\nSemibatch — Neither batch nor continuous.\nContinuous (open) — Continually throw stuff in and pull stuff out.",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#control-volume",
+    "href": "ChemE/Balances.html#control-volume",
+    "title": "Balances and Systems",
+    "section": "Control Volume",
+    "text": "Control Volume\nSometimes for an open system, whether transient or steady state, the system boundary has a fixed volume and the different parts of the system maintain their relative positions. This fixed-volume boundary is known as a control volume. Inputs Outputs Control Volume (C.V.)",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#the-general-balance-equation",
+    "href": "ChemE/Balances.html#the-general-balance-equation",
+    "title": "Balances and Systems",
+    "section": "The General Balance Equation",
+    "text": "The General Balance Equation\n\\[ \\mathrm{Input + Generation = Output + Consumption + Accumulation} \\]\n\nAll entities which can enter or exit a system are subject to the general balance equation.\nFor conserved quantities (energy, mass, atoms) the consumption and generation terms are zero\nFor steady-state systems the accumulation is zero.",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#differential-or-integral",
+    "href": "ChemE/Balances.html#differential-or-integral",
+    "title": "Balances and Systems",
+    "section": "Differential or Integral",
+    "text": "Differential or Integral\n\nDifferential Balances\n\nAll terms in the balance are rate terms e.g., mol/s, gal/hr, pg/yr.\nUsually used for continuous processes.\n\nIntegral Balances\n\nAll terms in the balance are amounts e.g., mol, gal, pg.\nUsually used for batch processes.",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#intensive-and-extensive-properties",
+    "href": "ChemE/Balances.html#intensive-and-extensive-properties",
+    "title": "Balances and Systems",
+    "section": "Intensive and Extensive Properties",
+    "text": "Intensive and Extensive Properties\nA property of a substance that does not depend on the mass or moles of a substance is an intensive property (such as temperature, pressure, density, or composition).\nA property of a substance that does depend on the mass or moles of a substance is an extensive property (such as volume or weight).\nIt is quite frequently useful to define an intensive property that is related to the extensive property. These intensive properties are specific (or molar) properties and are usually indicated by a circumflex, e.g., specific volume. \\(\\hat{V} = V/m\\)",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#definitions",
+    "href": "ChemE/Balances.html#definitions",
+    "title": "Balances and Systems",
+    "section": "Definitions",
+    "text": "Definitions\n\nPFD\n\nProcess Flow Diagram or flowsheet. A schematic drawing of the mixers, dividers, separators and reactors used in the process.\n\nRecycle\n\nPart of a product stream is returned to the feed of a process.\n\nBypass\n\nPart of the feed is routed around a process and mixed with the product.\n\nPurge\n\nA stream used to prevent buildup of trace components in a recycle loop.\n\nTie Component\n\nA component of the feed which is unchanged by a process. Often useful for calculations but never necessary.\n\nOverall Balance\n\nTreating a PFD as a black box with only inputs and outputs.",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#one-useful-technique",
+    "href": "ChemE/Balances.html#one-useful-technique",
+    "title": "Balances and Systems",
+    "section": "One Useful Technique",
+    "text": "One Useful Technique\n1. Draw a flowchart and fill in all given variable values.\n2. Choose a basis of calculation (usually an amount or flow rate of one of the process streams).\n3. Label unknown stream variables on the chart. Use a consistent system of labeling.\n4. Convert stream volumes or volumetric flow rates to mass or molar flow rates.\n5. Convert mixed mass and mole units to either all mass or all mole units.\n6. Write material balance equations.\n7. Write other problem constraints as equations.\n8. Do a Degree-of-Freedom analysis. Count the number of unknowns and the number of independent equations. Are they equal? What did you forget?\n9. Solve the equations.\n10.Convert the answers to the desired units.",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  },
+  {
+    "objectID": "ChemE/Balances.html#speed-tips",
+    "href": "ChemE/Balances.html#speed-tips",
+    "title": "Balances and Systems",
+    "section": "Speed Tips",
+    "text": "Speed Tips\n1. Don’t solve for everything.\n2. Write equations in order of number of unknowns from fewest to most.\n3. Try overall balances first.\n4. Check out tie components.\n5. Remember mole fractions or mass fractions add up to 1.\n6. Usually, solving a recycle loop requires a complete set of equations around the loop.",
+    "crumbs": [
+      "Home",
+      "ChemE",
+      "Balances and Systems"
+    ]
+  }
+]

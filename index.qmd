@@ -1,0 +1,5 @@
+---
+title: "DOFPro"
+---
+
+The Degrees of Freedom Project is dedicated to making previously developed proprietary instructional information available under an open source license. The two areas we are currently working to make available are in the areas of Chemical and Thermal Processes, and High-Power Rocketry. Let's see if we fixed things.

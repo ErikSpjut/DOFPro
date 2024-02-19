@@ -1,0 +1,10 @@
+---
+title: "ChemE"
+author: "DOFPro group"
+---
+
+# Introduction
+
+Chemical and Thermal Processes starts with the basics of stoichiometry and thermodynamics as covered in many Introduction to Chemical Engineering courses. It continues with topics typically covered in an advanced Engineering Thermodynamics course and in a Chemical Reactor Engineering course. The material is labeled as to whether it is introductory (Sophomore level), intermediate (Junior level) or advanced (Senior level).
+
+**More needs to be written**
