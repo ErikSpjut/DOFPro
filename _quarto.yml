@@ -19,6 +19,7 @@ website:
           - ChemE.qmd
           - ChemE/ChEIntro.qmd
           - ChemE/Balances.qmd
+          - ChemE/Appendices/Nomenclature.qmd
       - section: "Rockets"
         contents:
           - Rocketry.qmd
