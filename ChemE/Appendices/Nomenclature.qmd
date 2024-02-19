@@ -8,7 +8,7 @@ author: "DOFPro group"
 This page is to test web versions of the nomenclature or variable names for the videos and the website.
 
 | Chosen Symbol | Description                                                                                                                 | F & R       | SVN | Ç & B | H & R                       |
-|-------------|------------|------------|------------|------------|------------|
+|---------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|-----|-------|-----------------------------|
 | tbd           | specific volume, $\mathrm{m}^3/\mathrm{kg}$                                                                                 | $\hat{\ V}$ | $V$ | $v$   | tbd                         |
 | tbd           | acceleration, $\mathrm{m}/\mathrm{s}^2$                                                                                     | tbd         | tbd | tbd   | tbd                         |
 | tbd           | activity                                                                                                                    |             |     |       | $a$                         |
@@ -208,7 +208,7 @@ This page is to test web versions of the nomenclature or variable names for the 
 # Greek Symbols
 
 | Chosen Symbol | Description                                                                                                      | F & R | SVN | Ç & B | H & R                     |
-|-------------|------------|------------|------------|------------|------------|
+|---------------|------------------------------------------------------------------------------------------------------------------|-------|-----|-------|---------------------------|
 | tbd           | area covered per molecule adsorbed                                                                               |       |     |       | $\alpha$                  |
 | tbd           | branching coefficient in chain reaction mechanism                                                                |       |     |       | $\alpha$                  |
 | tbd           | coefficient in Luedeking–Piret equation                                                                          |       |     |       | $\alpha$                  |
@@ -280,7 +280,7 @@ This page is to test web versions of the nomenclature or variable names for the 
 # Subscripts
 
 | Chosen Symbol | Description                                                                                        | F & R | SVN | Ç & B | H & R         |
-|-------------|------------|------------|------------|------------|------------|
+|---------------|----------------------------------------------------------------------------------------------------|-------|-----|-------|---------------|
 | tbd           | generalized chemical species A                                                                     |       |     |       | A             |
 | tbd           | associated with a batch reactor                                                                    |       |     |       | batch         |
 | tbd           | bulk fluid property                                                                                |       |     |       | B             |
@@ -332,7 +332,7 @@ This page is to test web versions of the nomenclature or variable names for the 
 # Superscripts
 
 | Chosen Symbol | Description                                                      | F & R | SVN | Ç & B | H & R |
-|-------------|------------|------------|------------|------------|------------|
+|---------------|------------------------------------------------------------------|-------|-----|-------|-------|
 | tbd           | refers to variables associated with standard states of materials |       |     |       | 0     |
 | tbd           | variable is expressed per unit surface area                      |       |     |       | ″     |
 | tbd           | variable is expressed per unit volume of solid catalyst          |       |     |       | ″′    |

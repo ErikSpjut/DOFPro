@@ -7,12 +7,23 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - ChemE.qmd
       - Rocketry.qmd
   sidebar:
-    contents: auto
-  
+    style: "docked"
+    search: true
+    contents:
+      - section: "Chem E"
+        contents:
+          - ChemE.qmd
+          - ChemE/ChEIntro.qmd
+          - ChemE/Balances.qmd
+      - section: "Rockets"
+        contents:
+          - Rocketry.qmd
+          - rocket/Barometric Altitude.qmd
+
 format:
   html:
     theme: spacelab
