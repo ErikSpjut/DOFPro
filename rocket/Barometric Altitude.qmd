@@ -9,19 +9,25 @@ author: "DOFPro group"
 
 The standard atmospheric model below 11,000 m is almost the same for both the ISO Standard Atmosphere and the US Standard Atmosphere. The following is based on the US Standard Atmosphere. The atmosphere is modeled assuming a base temperature, $T_0$, at mean sea level (MSL) ($h_0 = 0$) of 288.15 K (15.0°C) and a base pressure, $P_0$, of 101,325 Pa. The temperature is assumed to vary linearly with altitude at a rate of –6.5°C per 1000 m (the *lapse rate*, $L$). The pressure versus altitude is calculated from the simultaneous solution of
 
-$\frac{dP}{dh} = \rho g = M \frac{n}{V} g$
+$$
+\frac{dP}{dh} = \rho g = M \frac{n}{V} g
+$$
 
 and
 
-$P = \frac{n}{V} R T$.
+$$P = \frac{n}{V} R T$$.
 
 The solution is
 
-$P = P_0\left[\frac{T_0}{T_0+ L(h-h_0)}\right]^{\left(\frac{M g}{L R}\right)}$
+$$
+P = P_0\left[\frac{T_0}{T_0+ L(h-h_0)}\right]^{\left(\frac{M g}{L R}\right)}
+$$
 
 or solved for $h$ in terms of $P$
 
-$h = h_0 + \frac{T_0}{L} \left[\left(\frac{P}{P_0}\right)^{-\left(\frac{L R}{M g}\right)} - 1\right]$
+$$
+h = h_0 + \frac{T_0}{L} \left[\left(\frac{P}{P_0}\right)^{-\left(\frac{L R}{M g}\right)} - 1\right]
+$$
 
 The molecular weight of dry air, $M$, is assumed to be 0.0289644 kg/mol. The value of $R$ used in the US Standard Atmosphere is 8.31432 J/(mol⋅K) versus the current [NIST standard](https://physics.nist.gov/cgi-bin/cuu/Value?r%7Csearch_for=molar+gas+constant) of 8.314462618 J/(mol⋅K). The difference is less than 0.002%, and is insignificant compared to the other uncertainties in the model.
 
@@ -39,7 +45,9 @@ If flight data are available for temperature and/or relative humidity versus alt
 
 To calculate the absolute humidity from the relative humidity, one needs the vapor pressure of water at the system temperature. Rather than use the steam tables, one can use the Antoine equation. A form of the equation suitable for atmospheric corrections is
 
-$P = \exp\left[16.3872 -\frac{3885.70}{T-42.98}\right]$
+$$
+P = \exp\left[16.3872 -\frac{3885.70}{T-42.98}\right]
+$$
 
 where $P$ is in kPa, and $T$ is in kelvin.
 
