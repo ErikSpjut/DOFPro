@@ -191,7 +191,7 @@
     "href": "rocket/Barometric Altitude.html#the-antoine-equation-for-water",
     "title": "Barometric Altitude",
     "section": "The Antoine Equation for Water",
-    "text": "The Antoine Equation for Water\nTo calculate the absolute humidity from the relative humidity, one needs the vapor pressure of water at the system temperature. Rather than use the steam tables, one can use the Antoine equation. A form of the equation suitable for atmospheric corrections is\n\\(P = \\exp\\left[16.3872 -\\frac{3885.70}{T-42.98}\\right]\\)\nwhere \\(P\\) is in kPa, and \\(T\\) is in kelvin.",
+    "text": "The Antoine Equation for Water\nTo calculate the absolute humidity from the relative humidity, one needs the vapor pressure of water at the system temperature. Rather than use the steam tables, one can use the Antoine equation. A form of the equation suitable for atmospheric corrections is\n\\[\nP = \\exp\\left[16.3872 -\\frac{3885.70}{T-42.98}\\right]\n\\]\nwhere \\(P\\) is in kPa, and \\(T\\) is in kelvin.",
     "crumbs": [
       "Home",
       "Rockets",

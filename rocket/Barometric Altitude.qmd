@@ -29,7 +29,7 @@ $$
 h = h_0 + \frac{T_0}{L} \left[\left(\frac{P}{P_0}\right)^{-\left(\frac{L R}{M g}\right)} - 1\right]
 $$
 
-The molecular weight of dry air, $M$, is assumed to be 0.0289644 kg/mol. The value of $R$ used in the US Standard Atmosphere is 8.31432 J/(mol⋅K) versus the current [NIST standard](https://physics.nist.gov/cgi-bin/cuu/Value?r%7Csearch_for=molar+gas+constant) of 8.314462618 J/(mol⋅K). The difference is less than 0.002%, and is insignificant compared to the other uncertainties in the model.
+The molecular weight of dry air, $M$, is assumed to be 0.0289644 kg/mol. The value of $R$ used in the US Standard Atmosphere is 8.31432 J/(mol⋅K) versus the current [NIST standard](https://physics.nist.gov/cgi-bin/cuu/Value?r) of 8.314462618 J/(mol⋅K). The difference is less than 0.002%, and is insignificant compared to the other uncertainties in the model.
 
 # Corrections for Non-Standard Conditions
 
