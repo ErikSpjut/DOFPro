@@ -1,5 +1,6 @@
 ---
 title: "DOFPro"
+author: "DOFPro group"
 ---
 
-The Degrees of Freedom Project is dedicated to making previously developed proprietary instructional information available under an open source license. The two areas we are currently working to make available are in the areas of Chemical and Thermal Processes, and High-Power Rocketry. Let's see if we fixed things.
+The Degrees of Freedom Project (DOFPro) is dedicated to making previously developed proprietary instructional information available under an open source license. The two areas we are currently working to make available are in the areas of Chemical and Thermal Processes, and High-Power Rocketry. If you would like to join our team, please submit two samples of your work, chosen from the [List of Samples](samples.qmd) page.

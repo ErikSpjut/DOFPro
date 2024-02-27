@@ -1,0 +1,83 @@
+---
+title: "Samples of Needed Abilities"
+author: "DOFPro group"
+format: html
+---
+
+# Introduction
+
+Would you like to contribute to the Degrees of Freedom Project? We have need of people with skills in the areas listed below. Please choose two of the sample tasks, and submit a sample of your work to us for each of your two chosen tasks.
+
+# Scripts
+
+The prinicipal tasks in the area of scripts are rewriting existing scripts, writing new scripts, and editing existing scripts, and storyboarding. The available sample tasks are:
+
+ 1. Rewrite the [linked portion of this script](https://docs.google.com/document/d/14jiiQX4kGKEZr4u8jBO5d_Q_pVHwRp6kV3PYBKQMs10/edit?usp=sharing) for [an existing video](https://youtu.be/ywIUp9uNmY8?si=kmD1Ufa5Vz_kGzdG) to make it clearer and more accessible to students trying to learn chemical and thermal process principles. You may assume that the visuals can be changed.
+ 2. Write a short script for a video to explain *either* the differences among total internal energy $(U)$, specific internal energy $(\hat{U})$, and molar internal energy $(\hat{U})$ in Chemical Engineering, *or* the coefficient of drag, $C_D$ for a rocket.
+ 3. Recommend some edits to the [linked script](https://docs.google.com/document/d/10n3r-hAi042YS5q6NA-e9l59_gJjjtlMWoEBPm5B5H4/edit?usp=sharing) to make it clearer and more accessible to students trying to learn chemical and thermal process principles.
+ 4. Storyboard the [linked script](https://docs.google.com/document/d/10n3r-hAi042YS5q6NA-e9l59_gJjjtlMWoEBPm5B5H4/edit?usp=sharing).
+
+# Graphics Production
+
+Graphics Production involves many aspect of the project. We need title screens for the videos, logos for the videos and the websites, storyboards for the scripts, creation of the visuals for the videos and websites, and other elements of the graphic design for the websites and videos. The available sampel tasks are:
+
+ 1. Create an overall logo for [DOFPro](index.qmd).
+ 2. Create a logo for the [Chemical and Thermal Processes website](https://erik.spjut.me/CTP/).
+ 3. Create a logo for the [Rocketry website](https://erik.spjut.me/RCK/).
+ 4. Create a title screen for the [*What Is a Mole?*](https://docs.google.com/document/d/10n3r-hAi042YS5q6NA-e9l59_gJjjtlMWoEBPm5B5H4/edit?usp=sharing) video.
+ 5. Create a reveal.js presentation for slides 3 and 4 (page 2) of the [linked presentation](https://pages.hmc.edu/spjut/E82/lec/ConvertingTemperature.pdf).
+ 6. Recreate the process flow diagram (PFD) in the [linked problem](https://drive.google.com/file/d/1nFTj78bRb23Jkb39tgxb18pixNyBRfBJ/view?usp=sharing) with your choice of open-source software.
+ 7. Create a 2D animation of the process flow diagram (PFD) in the [linked problem](https://drive.google.com/file/d/1nFTj78bRb23Jkb39tgxb18pixNyBRfBJ/view?usp=sharing). Have the reactor, heat exchanger, and distillation columns dissolve in one-by-one, and then the flow streams, and then trace the flow of propylene through the flow sterams and processing units.
+ 8. Create a 3D animation of a tank with a feed pipe filling with a liquid.
+
+# Recording and Editing
+
+We have a large number of videos to record and all aspects of the recording and editing process will need to be done: lighting, staging, setting up sound equipment, operating the cameras, acting, editing the videos, editing the audio, mastering and final production, and posting. The available sample projects are:
+
+ 1. Light and photograph an interesting object.
+ 2. Create a prop for use in a chemical and thermal processes or rocketry video.
+ 3. Record a short video of someone explaining what internal energy is and include at least one transition.
+ 4. Record a short video of someone singing, then optimize the sound quality, e.g, use an expander to drop the noise floor, a compressor to narrow the dynamic range, an equalizer to balance the frequency response, and some reverb to enhance the sound (just to clarify, *e.g.* means *for example*, it does not mean *in other words*).
+ 5. Make a short video that shows proper use of at least three of the following:
+    1. Standard cut
+    2. Jump cut
+    3. Crossfade
+    4. Wipe
+    5. J- or L-cut
+    6. Fade-in or fade-out
+ 6. Make short audio recording of someone speaking in a noisy environment and provide before-and-after samples of applying compression and expansion and/or other effects to optimize the noise reduction and audio quality. Explain how you did it.
+
+# Website Production
+
+We are creating and editing the websites in [Quarto](https://quarto.org/) and posting on [github](https://github.com/). [VS Code](https://code.visualstudio.com/) is the recommended development environment. Quarto uses [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) for most of the text editing and Mathjax ([LaTeX](https://quarto.org/docs/visual-editor/vscode/)) for equation editing. We are creating our presentations in [Quarto](https://quarto.org/docs/presentations/) using the [revealjs](https://quarto.org/docs/presentations/revealjs/) format. The sample tasks in website production are:
+
+ 1. Convert the [linked webpage](https://pages.hmc.edu/spjut/AdvRoc/Assignments/assign2.md.html) into a Quarto ".qmd" document that will render correctly (but not necessarily identially). Adding "?noformat" to the end of the URL may make your task much easier.
+ 2. Convert the linked presentation ([PDF version](https://drive.google.com/file/d/1nMHzHLIgjeySL0xoDJYO1G8apgomf16m/view?usp=sharing)) ([Keynote version](https://drive.google.com/file/d/1nPe37luqQcUPC2H708ImQyVFIqez8zIg/view?usp=sharing)) ([Powerpoint version](https://docs.google.com/presentation/d/1nPZXmdBwtF7BFUtV85Qhc5aCEjdvS1Py/edit?usp=sharing&ouid=107710122838944141135&rtpof=true&sd=true)) to a [Quarto presentation using the revealjs format](https://quarto.org/docs/presentations/revealjs/) and render it in PDF.
+ 3. Using css, change the linked webpage ([link](https://erik.spjut.me/E106_Website/index.html)) ([source](https://drive.google.com/file/d/1nPjYnUJe_a3PVU6nTFEwlGsi2ZRrQktc/view?usp=sharing)) so that the table values are in a red serif font and the links are in a green italics serif font.
+ 4. Provide a step-by-step expalation of how you would set up and organize a team to use Quarto and Github with VS Code collaboratively edit a website and track all changes to the code base.
+
+# Problem Set and Example Conversion
+
+Many of the example problems, homework problems, and projects are currently tied to copyrighted textbooks and commercial software. All of them need to be converted to problems releasable under creative commons and reference open-source software. The sample tasks in this section are:
+
+1. Either convert or describe the process for converting the linked assignment ([.docx](https://docs.google.com/document/d/1nST5n3O6RKP3-XpkhjhjQ2NglH3TLahz/edit?usp=sharing&ouid=107710122838944141135&rtpof=true&sd=true)) ([.pdf](https://drive.google.com/file/d/1nSTXlFfWVonpvk_pxxD7KwD3-44lDsSX/view?usp=sharing)) to be releasable under creative commons.
+2. Either convert or describe the process for converting the example in Slides 14 through 18 ([slides](https://pages.hmc.edu/spjut/E82/lec/FirstLawHeatCapacities.pdf)) ([video](https://youtu.be/6qpFuS_3CrY) starting at 10:08) to be releasable under creative commons.
+3. Either convert or describe the process for converting the [linked project](https://pages.hmc.edu/spjut/E133/FinProj.md.html) to be releasable under creative commons.
+
+# Software and CAD Conversion
+
+We have lots of example solutions, assignment solutions, projects, and CAD files that need to be converted from commercial software to open source. We have decided that we are going to make the following conversions:
+
+ 1. Microsoft Excel files to LibreOffice files
+ 2. MATLAB code to Python with NumPy and SciPy code
+ 3. Mathematica code to SageMath code
+ 4. Solidworks files to FreeCAD files
+ 5. PRO/II files to DWSIM files.
+
+ The sample projects available in software and CAD conversion are:
+
+  1. Convert the linked spreadsheet from a ".xlsx" file to a ".ods" file and preserve as much of the formatting as possible.
+  2. Convert the linked ".m" file into a ".py" file.
+  3. Convert the linked ".nb" file into SageMath code.
+  4. Convert the linked ".SLDPRT" file into an "FCStd" file.
+  5. Convert the linked ".prz" to a ".dwxmz" file.
