@@ -5,6 +5,9 @@ author: "DOFPro group"
 
 # Introduction
 
-These pages outline the basics of High Power Rocketry as defined in [NFPA 1127](https://www.nfpa.org/codes-and-standards/1/nfpa-1/2/nfpa-1127) and by \[TRA\](<https://www.tripoli.org/>) and \[NAR\](<https://www.nar.org/>).
+The High Power Rocketry materials were developed for the Harvey Mudd course [E178, High Power Rocketry](https://pages.hmc.edu/spjut/AdvRoc/index.md.html). This course grew out of the rocketry version of [E80, Experimental Engineering](https://pages.hmc.edu/spjut/NewE80/) which ran from Spring 2008 through Spring 2016. The course was converted to underwater autonomous vehicles for Spring 2017. The [current E80 website](https://hmc-e80.github.io/E80/) is [linked here](https://hmc-e80.github.io/E80/).
 
-**More needs to be written**
+For the Degrees of Freedom version, we are converting the website from being oriented as a course to being a tutorial on High Power Rocketry as defined in [NFPA 1127](https://www.nfpa.org/codes-and-standards/1/nfpa-1/2/nfpa-1127) and by \[TRA\](<https://www.tripoli.org/>) and \[NAR\](<https://www.nar.org/>). The extensive code base in MATLAB is being rewritten in Python with NumPy and SciPy. The Mathematica code base is being rewritten in SageMath. The Microsoft Excel spreadsheets are being converted to LibreOffice. The RockSim models have all been converted to Open Rocket. The extensive SolidWorks files are all being converted to FreeCAD. We haven't yet forund a good alternative for LabVIEW. Any copyrighted references are being replaced with creative commons or other open source references. We will also be filming instructional videos as well as converting the existing rocket construction web pages.
+
+We have the [initial website](https://erik.spjut.me/RCK/) for the [High Power Rocketry](https://erik.spjut.me/RCK/) materials up. It is currently a very rough skeletal outline. Do not count on the URL to remain constant, as we may change it. Please just use it to get an idea of our current thinking.
+

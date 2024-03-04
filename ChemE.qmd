@@ -1,10 +1,21 @@
 ---
-title: "ChemE"
+title: "Chemical and Thermal Processes"
 author: "DOFPro group"
 ---
 
 # Introduction
 
-Chemical and Thermal Processes starts with the basics of stoichiometry and thermodynamics as covered in many Introduction to Chemical Engineering courses. It continues with topics typically covered in an advanced Engineering Thermodynamics course and in a Chemical Reactor Engineering course. The material is labeled as to whether it is introductory (Sophomore level), intermediate (Junior level) or advanced (Senior level).
+Chemical and Thermal Processes starts with the basics of stoichiometry and thermodynamics as covered in many Introduction to Chemical Engineering courses. It continues with topics typically covered in an advanced Engineering Thermodynamics course and in a Chemical Reactor Engineering course. The course material tied to copyrighted texts and commercial software was developed over a number of years, but development accelerated during the end of the 2019/2020 academic year, and the 2020/2021 academic year. During this time, the COVID pandemic forced the need for remote and asynchronous instruction for students stuck at home in almost every state in the United States and other countries throughout the world.
 
-**More needs to be written**
+
+The existing course websites, with links to the videos, are:
+ 
+  * [E82, Chemical and Thermal Processes](https://pages.hmc.edu/spjut/E82/index.md.html)
+  * [E133, Chemical Reaction Engineering](https://pages.hmc.edu/spjut/E133/index.md.html)
+  * [E134, Advanced Engineering Thermodynamics](https://pages.hmc.edu/spjut/E134/index.md.html)
+  * [The Stats parts of E80](https://hmc-e80.github.io/E80/lectures/#week-2-statistics-for-experiments)
+  
+We are planning on rescripting and reshooting all of the videos, reorganizing and rewriting the websites, and converting all of the examples, problem sets, projects, and solutions to creative commons and open-source software. 
+
+We have the [initial website](https://erik.spjut.me/CTP/) for the [Chemical and Thermal Processes](https://erik.spjut.me/CTP/) materials up. It is currently a very rough skeletal outline. Do not count on the URL to remain constant, as we may change it. Please just use it to get an idea of our current thinking.
+

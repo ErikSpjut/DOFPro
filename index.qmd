@@ -3,4 +3,20 @@ title: "DOFPro"
 author: "DOFPro group"
 ---
 
-The Degrees of Freedom Project (DOFPro) is dedicated to making previously developed proprietary instructional information available under an open source license. The two areas we are currently working to make available are in the areas of Chemical and Thermal Processes, and High-Power Rocketry. If you would like to join our team, please submit two samples of your work, chosen from the [List of Samples](samples.qmd) page.
+The Degrees of Freedom Project (DOFPro) was founded to take previously developed proprietary instructional information and convert it to be released under an open source license. The two sets of instructional information are in the areas of Chemical and Thermal Processes, and High Power Rocketry. The existing information was produced for Engineering classes at Harvey Mudd College. You can examine the existing websites and videos for the classes following the links below. In Chemical and Thermal Processes the links are [E82, Chemical and Thermal Processes](https://pages.hmc.edu/spjut/E82/index.md.html), [E133, Chemical Reaction Engineering](https://pages.hmc.edu/spjut/E133/index.md.html) and [E134, Advanced Engineering Thermodynamics](https://pages.hmc.edu/spjut/E134/index.md.html). In High Power Rocketry, the link is [E178, High Power Rocketry](https://pages.hmc.edu/spjut/AdvRoc/index.md.html).
+
+Our chosen web development platform is [Quarto](https://quarto.org/). The chosen open-source packages are:
+
+  * LibereOffice
+  * Python with NumPy and SciPy.
+  * SageMath
+  * FreeCAD
+  * DWSIM
+
+with the possibility of other packages to be added.
+
+You can read more about the Chemical and Thermal Processes work at the [link above](ChemE.qmd), or go to the current [Chemical and Thermal Processes website](https://erik.spjut.me/CTP/), which is in a very early state of development.
+
+You can read more about the High Power Rocketry work at the [link above](Rocketry.qmd), or go to the current [High Power Rocketry](https://erik.spjut.me/RCK/) website, which is in a very early state of development.
+
+If you would like to join our team, please submit two samples of your work, chosen from the [List of Samples](samples.qmd) page.

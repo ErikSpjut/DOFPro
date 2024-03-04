@@ -6,7 +6,7 @@ format: html
 
 # Introduction
 
-Would you like to contribute to the Degrees of Freedom Project? We have need of people with skills in the areas listed below. Please choose two of the sample tasks, and submit a sample of your work to us for each of your two chosen tasks.
+Would you like to contribute to the Degrees of Freedom Project? We have need of people with skills in the areas listed below. Please choose two of the sample tasks, e.g., Number 2 under [Scripts](#scripts), and Number 1 under [Software and CAD Conversion](#software-and-cad-conversion), and submit a sample of your work to us for each of your two chosen tasks.
 
 # Scripts
 
